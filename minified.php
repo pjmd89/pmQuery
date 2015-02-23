@@ -8,17 +8,11 @@ $files = array(
 	"jquery.pm.getstates.js",
 	"jquery.pm.imagetoblob.js",
 	"jquery.pm.jsubmit.js",
-	"jquery.pm.jcrud.js",
-	"jquery.pm.jcrud2.js",
 	"jquery.pm.jalert.js",
 	"jquery.pm.jtooltip.js",
 	"jquery.pm.jdtable.js",
 	"jquery.pm.jmenu.js",
-	"jquery.pm.newtiny.js",
 	"jquery.pm.jconfirm.js",
-	"jquery.cpf.jusers.js",
-	"jquery.cpf.getusers.js",
-	"jquery.cpf.standarduser.js",
 	"array_query.js",
 );
 
